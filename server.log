@@ -1,0 +1,3 @@
+Static file server running at
+  => http://localhost:8888 type=ftp, workspace=/home/codepath/ftp_folder/
+CTRL + C to shutdown

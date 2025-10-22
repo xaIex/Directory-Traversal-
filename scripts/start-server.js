@@ -1,0 +1,1 @@
+var pkg = require('/usr/local/lib/node_modules/hftp');
