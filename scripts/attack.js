@@ -1,5 +1,5 @@
 /**
- * Author: Liang Gong
+
  * Modified by: Andrew Burke (CodePath)
  * Modified by: Sar Champagne Bielert (CodePath)
  */
