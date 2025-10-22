@@ -1,7 +1,5 @@
 #!/bin/bash
-# Author: Liang Gong
-# Modified by: Sar Champagne Bielert (CodePath)
-# Modified by: Andrew Burke (CodePath)
+
 
 # These lines help the output print in color!
 RED='\033[0;31m'
